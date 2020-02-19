@@ -1,0 +1,8 @@
+1,MZK,,,Should not be empty
+2,,Mul,Should not be empty,
+3,M1,FO,Your facility ID must between 3 and 20 digits,Your facility_name must between 3 and 20 digits
+4,TableTennisRooms_ForTable1234,MRRRRRRRRRRRRRRRRRRR1,Your facility ID must between 3 and 20 digits,Your facility_name must between 3 and 20 digits
+5,TableTennis_Rooms1-23,Footballllllllllllllllllllllll,Your facility ID must between 3 and 20 digits,Your facility_name must between 3 and 20 digits
+6,MAC,BBT,,
+7,123,FootBall_Court,MUST BE UNIQUE,
+8,m,m,Must be capital,Must be capital

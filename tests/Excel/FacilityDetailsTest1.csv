@@ -1,0 +1,9 @@
+InsertFacility,FOO,
+InsertFacility,,Should not be empty
+InsertFacility,M1,Your facility ID must between 3 and 20 digits
+InsertFacility,mac123,Must be capital
+InsertFacility,BasketBall_Turf,
+InsertFacility,TableTennis_Rooms1-2,
+InsertFacility,TableTennisRooms_ForTable1234,Your facility ID must between 3 and 20 digits
+InsertFacility,MAC150,MUST BE UNIQUE
+InsertFacility,TableTennis_Rooms1-23,Your facility ID must between 3 and 20 digits

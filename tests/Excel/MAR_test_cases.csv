@@ -1,0 +1,12 @@
+1,Multipurpose rooms,MR1,Description,,10/27/2019,20.2,1,,
+2,Multipurpose rooms,MR2,Description,,10/27/2019,20.2,1,,
+3,Multipurpose rooms,MR3,Description,,10/27/2019,20.2,1,,
+4,Multipurpose rooms,MR4,Description,,10/27/2019,20.2,1,,
+5,Multipurpose rooms,MR4,12345678,,10/27/2019,20.2,1,Please correct the following errors,Your Description must be non-numeric
+6,Multipurpose rooms,MR4,,,10/27/2019,20.2,1,Please correct the following errors,Your Description must between 1 and 120 characters.
+7,Multipurpose rooms,MR4,DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription,,10/27/2019,20.2,1,Please correct the following errors,Your Description must between 1 and 120 characters.
+7,Multipurpose rooms,MR4,D,,10/27/2019,20.2,1,,
+7,Multipurpose rooms,MR4,DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription,,10/27/2019,20.2,1,Please correct the following errors,Your Description must between 1 and 120 characters.
+7,Multipurpose rooms,MR4,DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptio,,10/27/2019,20.2,1,,
+7,Multipurpose rooms,MR4,DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptio,,,20.2,1,,
+7,Multipurpose rooms,MR4,DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptio,,10/27/2020,20.2,1,,

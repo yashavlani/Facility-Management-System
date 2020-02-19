@@ -1,0 +1,17 @@
+12,texas,User,123,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,Your First Name must be non-numeric,,,,,,,,
+13,texas,User,Pujaredij,P,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,Your Last Name must between 3 and 40 characters.,,,,,,,
+14,texas,User,Pujaredij,Pujaredij,123,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,,Phone number must be 10 digits in length,,,,,,
+16,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,arlington,76013,Pujaredij@123,Please correct the following errors,,,,,,,City must start with a capital letter.,,,
+17,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,100,Pujaredij@123,Please correct the following errors,,,,,,,,Zip Code must be 5 digits in length,,
+18,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,p@123,Please correct the following errors,,,,,,,,,,Your Password must between 3 and 40 characters.
+19,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,PUJAREDIJ@123,Please correct the following errors,,,,,,,,,,Your Password must contain at least 1 uppercase letter 1 lowercase letter 1 number and 1 special character and should be 8-40 characters long.
+23,texas,User,pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,Your First Name must start with a capital letter.,,,,,,,,
+24,texas,User,Pujaredij,1234567,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,Your Last Name must be non-numeric,,,,,,,
+25,texas,User,Pujaredij,pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,Your Last Name must start with a capital letter.,,,,,,,
+27,texas,User,Pujaredij,Pujaredij,1234567890,P@g.c,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,,,Email address must be between 7 and 45 characters long,,,,,
+28,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.co,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,,,,Invalid domain name,,,,,
+29,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,abcde,Arlington,76013,Pujaredij@123,Please correct the following errors,,,,,,Your street address must be numeric,,,,
+30,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,0,Arlington,76013,Pujaredij@123,Please correct the following errors,,,,,,Your street address must between 3 and 40 characters.,,,,
+31,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,1234567,76013,Pujaredij@123,Please correct the following errors,,,,,,,City must be non-numeric,,,
+32,texas,User,Pujaredij,Pujaredij,1234567890,Pujaredij@gmail.com,12345,a,76013,Pujaredij@123,Please correct the following errors,,,,,,,City must between 3 and 40 characters.,,,
+34,texas,User,a,Pujaredij,1234567890,Pujaredij@gmail.com,12345,Arlington,76013,Pujaredij@123,Please correct the following errors,,Your First Name must between 3 and 40 characters.,,,,,,,,

@@ -1,0 +1,5 @@
+1,Prempatel,Prempatel@123,DummyUsr,
+2,Prempatel,Prempatel@123,,Username and Role cannot be blank
+3,Prempatel,Prempatel@123,Puja,Your User Name must between 8 and 20 characters
+4,Prempatel,Prempatel@123,123456789,Your user name cannot be numeric
+5,Prempatel,Prempatel@123,abcdefghi,Given user does not exist in database please provide a username for a pre-existing user
